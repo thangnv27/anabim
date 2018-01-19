@@ -1,0 +1,29 @@
+#bbpress-forums div.bbp-search-form {
+    margin-bottom: 10px;
+}
+#bbpress-forums li.bbp-header{
+    background: #000;
+    color: #fff;
+}
+#bbpress-forums .bbp-forum-info .bbp-forum-content{
+    margin-bottom: 10px
+}
+.bbp-forum-content img {
+    margin-right: 15px;
+    float: left;
+}
+#bbpress-forums .bbp-forums-list li{
+    float: left;
+    width: 47%;
+    font-size: 12px;
+    margin-bottom: 5px
+}
+#bbpress-forums .bbp-forums-list li:nth-child(2n+1){
+    margin-right: 15px
+}
+
+#bbpress-forums fieldset.bbp-form{
+    border: none;
+    padding: 0;
+    margin: 0
+}

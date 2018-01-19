@@ -1,0 +1,1214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Anabim\n"
+"POT-Creation-Date: 2016-04-03 00:58+0700\n"
+"PO-Revision-Date: 2016-04-03 01:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: NGO VAN THANG <ngothangit@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: config-layerslider\n"
+
+#: 404.php:6
+msgid "KHÔNG TÌM THẤY TRANG"
+msgstr "404 NOT FOUND"
+
+#: category.php:56 functions.php:653
+msgid "File thực hành"
+msgstr "Practice files"
+
+#: category.php:57
+msgid "Khoá học liên quan"
+msgstr "Related Courses"
+
+#: category.php:61
+msgid "BÀI HỌC MIỄN PHÍ"
+msgstr "LEARNING FREE"
+
+#: category.php:73
+msgid "TẤT CẢ BÀI HỌC"
+msgstr "ALL OF VIDEOS"
+
+#: category.php:91
+#, php-format
+msgid "<p>Vui lòng <a href=\"%s\">đăng nhập</a> trước để tải file.</p>"
+msgstr "<p>Please <a href=\"%s\">sign in</a> to download files.</p>"
+
+#: category.php:112
+msgid "Bản quyền thuộc"
+msgstr "Copyright"
+
+#: category.php:115 category.php:116
+msgid "Đăng ký học"
+msgstr "Buy now"
+
+#: category.php:246
+msgid "Lý do"
+msgstr "Reason"
+
+#: category.php:247
+msgid "Mục tiêu"
+msgstr "Target"
+
+#: category.php:248
+msgid "Phương pháp"
+msgstr "Method"
+
+#: category.php:249
+msgid "Nội dung"
+msgstr "Contents"
+
+#: category.php:259 page-templates/page-createaccount.php:200
+#: page-templates/page-shop.php:54 page-templates/page-shop.php:56
+msgid "Đăng ký"
+msgstr "Register"
+
+#: comments.php:28 comments.php:46
+msgid "Điều hướng bình luận"
+msgstr "Comment navigation"
+
+#: comments.php:29 comments.php:47
+msgid "&larr; Bình luận cũ hơn"
+msgstr "&larr; Older comments"
+
+#: comments.php:30 comments.php:48
+msgid "Bình luận mới hơn &rarr;"
+msgstr "Newer comments &rarr;"
+
+#: comments.php:53
+msgid "Bình luận đã đóng."
+msgstr "Comments closed."
+
+#: content-audio.php:28 content-gallery.php:32
+msgid "Leave a comment"
+msgstr ""
+
+#: content-audio.php:28 content-gallery.php:32
+msgid "1 Comment"
+msgstr ""
+
+#: content-audio.php:28 content-gallery.php:32
+msgid "% Comments"
+msgstr ""
+
+#: content-audio.php:31 content-gallery.php:35 content-page.php:25
+#: content-project.php:14 content-staff.php:14 content-video.php:23
+#: content.php:31
+msgid "<i class=\"fa fa-pencil\"></i> Chỉnh sửa"
+msgstr "<i class=\"fa fa-pencil\"></i> Edit"
+
+#: content-audio.php:39
+#, php-format
+msgid "Xem thêm %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Read more %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-audio.php:45 content-gallery.php:49 content-page.php:19
+#: content-project.php:32 content-staff.php:34 content.php:49
+msgid "Trang:"
+msgstr "Pages:"
+
+#: content-gallery.php:43
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-none.php:8
+msgid "Không tìm thấy nội dung"
+msgstr "Nothing found"
+
+#: content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-project.php:10 content-staff.php:10 content-video.php:20
+#: content.php:27
+msgid "<i class=\"fa fa-comment\"></i> Bình luận"
+msgstr "<i class=\"fa fa-comment\"></i> Comments"
+
+#: content-project.php:10 content-staff.php:10 content-video.php:20
+#: content.php:27
+msgid "<i class=\"fa fa-comment\"></i> 1 Bình luận"
+msgstr "<i class=\"fa fa-comment\"></i> 1 Comment"
+
+#: content-project.php:10 content-staff.php:10 content-video.php:20
+#: content.php:27
+msgid "<i class=\"fa fa-comment\"></i> % Bình luận"
+msgstr "<i class=\"fa fa-comment\"></i> % Comments"
+
+#. translators: %s: Name of current post
+#: content-project.php:27 content-staff.php:29 content.php:44
+#: libs/template-tags.php:101
+msgid "Xem thêm <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Read more <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:198
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:206
+msgid "Sidebar Footer 1"
+msgstr ""
+
+#: functions.php:214
+msgid "Sidebar Footer 2"
+msgstr ""
+
+#: functions.php:222
+msgid "Sidebar Footer 3"
+msgstr ""
+
+#: functions.php:230
+msgid "Sidebar Footer 4"
+msgstr ""
+
+#: functions.php:306
+msgid "Nhập tên nguồn trích dẫn"
+msgstr ""
+
+#: functions.php:309
+msgid "Nhập tên mã giảm giá"
+msgstr ""
+
+#: functions.php:312
+msgid "Nhập tên thành viên"
+msgstr ""
+
+#: functions.php:315
+msgid "Nhập tên dự án"
+msgstr ""
+
+#: functions.php:318
+msgid "Nhập tên học viên"
+msgstr ""
+
+#: functions.php:321
+msgid "Nhập tên gói"
+msgstr ""
+
+#: functions.php:547
+msgid "Mô tả khi click"
+msgstr ""
+
+#: functions.php:560
+msgid "View Layout"
+msgstr ""
+
+#: functions.php:579
+msgid "Chuyên mục hình ảnh"
+msgstr ""
+
+#: functions.php:601
+msgid "Lý do học"
+msgstr ""
+
+#: functions.php:614
+msgid "Mục tiêu khoá học"
+msgstr ""
+
+#: functions.php:627
+msgid "Phương pháp học"
+msgstr ""
+
+#: functions.php:640
+msgid "Nội dung khoá học"
+msgstr ""
+
+#: functions.php:666
+msgid "Chọn khoá học"
+msgstr ""
+
+#: functions.php:689
+msgid "Ảnh nền khi click"
+msgstr ""
+
+#: header.php:89
+msgid "Tìm kiếm"
+msgstr "Search"
+
+#: header.php:100 header.php:169
+msgid "Chỉnh sửa hồ sơ"
+msgstr "Edit profile"
+
+#: header.php:101 header.php:170 includes/membership.php:10
+#: includes/membership.php:11 includes/memberships.php:44
+msgid "Memberships"
+msgstr ""
+
+#: header.php:102 header.php:171
+msgid "Khoá học của tôi"
+msgstr "My courses"
+
+#: header.php:103 header.php:172
+msgid "Bạn có chắc chắn muốn thoát?"
+msgstr "Are you sure you want to logout?"
+
+#: header.php:103 header.php:172
+msgid "Đăng xuất"
+msgstr "Logout"
+
+#: header.php:106
+msgid "ĐĂNG NHẬP"
+msgstr "SIGN IN"
+
+#: header.php:108 header.php:177 page-templates/page-createaccount.php:224
+msgid "Đăng nhập"
+msgstr "Sign in"
+
+#: header.php:109 header.php:178
+msgid "Đăng ký tài khoản"
+msgstr "Create account"
+
+#: header.php:111 header.php:180
+msgid "Đăng nhập bằng tài khoản"
+msgstr "Sign in with"
+
+#: includes/class-memberships-detail-list-table.php:69
+#: includes/class-memberships-list-table.php:45
+#: includes/class-orders-detail-list-table.php:70
+#: includes/class-orders-list-table.php:45
+msgid "ID"
+msgstr ""
+
+#: includes/class-memberships-detail-list-table.php:70
+#: includes/class-memberships-list-table.php:47
+msgid "Gói cấp độ"
+msgstr ""
+
+#: includes/class-memberships-detail-list-table.php:71
+msgid "Giá"
+msgstr ""
+
+#: includes/class-memberships-detail-list-table.php:72
+msgid "Thời gian"
+msgstr ""
+
+#: includes/class-memberships-detail-list-table.php:73
+#: page-templates/page-checkout.php:103
+#: page-templates/page-member-checkout.php:104
+msgid "Thành tiền"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:46
+msgid "Thành viên"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:48
+#: includes/class-orders-list-table.php:48
+#: page-templates/page-history-order.php:23
+msgid "Ngày đăng ký"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:49
+#: includes/class-orders-list-table.php:49
+msgid "Ngày hết hạn"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:50
+#: includes/class-orders-list-table.php:50 page-templates/page-cart.php:79
+#: page-templates/page-checkout.php:123
+#: page-templates/page-history-order.php:24
+#: page-templates/page-member-checkout.php:121
+msgid "Tổng tiền"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:51
+#: includes/class-orders-list-table.php:51
+msgid "Tùy chọn"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:262
+#: includes/class-orders-list-table.php:278
+msgid "Không duyệt"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:263
+#: includes/class-memberships-list-table.php:274
+#: includes/class-orders-list-table.php:279
+#: includes/class-orders-list-table.php:290
+msgid "Hủy"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:267
+#: includes/class-memberships-list-table.php:273
+#: includes/class-orders-list-table.php:283
+#: includes/class-orders-list-table.php:289
+msgid "Duyệt"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:268
+#: includes/class-orders-list-table.php:284
+msgid "Phục hồi"
+msgstr ""
+
+#: includes/class-memberships-list-table.php:269
+#: includes/class-orders-list-table.php:285
+msgid "Xóa vĩnh viễn"
+msgstr ""
+
+#: includes/class-orders-detail-list-table.php:71
+#: includes/class-orders-list-table.php:47 page-templates/page-checkout.php:102
+msgid "Khoá học"
+msgstr ""
+
+#: includes/class-orders-detail-list-table.php:72
+#: page-templates/page-cart.php:24
+msgid "Chi phí"
+msgstr ""
+
+#: includes/class-orders-list-table.php:46
+msgid "Khách hàng"
+msgstr ""
+
+#: includes/coupon.php:10 includes/coupon.php:11
+#: page-templates/page-checkout.php:126
+msgid "Mã giảm giá"
+msgstr ""
+
+#: includes/coupon.php:12
+msgid "Add new coupon"
+msgstr ""
+
+#: includes/coupon.php:13
+msgid "Add new Coupon"
+msgstr ""
+
+#: includes/coupon.php:14
+msgid "New Coupon"
+msgstr ""
+
+#: includes/coupon.php:15 includes/feedback.php:18 includes/membership.php:15
+#: includes/photo.php:15 includes/product.php:15 includes/project.php:15
+#: includes/quote.php:15 includes/staff.php:15 includes/testimonial.php:15
+msgid "Edit"
+msgstr ""
+
+#: includes/coupon.php:16
+msgid "Edit Coupon"
+msgstr ""
+
+#: includes/coupon.php:17 includes/coupon.php:18
+msgid "View Coupon"
+msgstr ""
+
+#: includes/coupon.php:19
+msgid "Search Coupons"
+msgstr ""
+
+#: includes/coupon.php:20
+msgid "No Coupon found"
+msgstr ""
+
+#: includes/coupon.php:21
+msgid "No Coupon found in trash"
+msgstr ""
+
+#: includes/coupon.php:35
+msgid "Coupon description here."
+msgstr ""
+
+#: includes/custom-user.php:259 page-templates/page-checkout.php:40
+#: page-templates/page-createaccount.php:191
+#: page-templates/page-member-checkout.php:40
+msgid "Số điện thoại"
+msgstr "Phone number"
+
+#: includes/custom-user.php:266 page-templates/page-createaccount.php:144
+msgid "Ngày sinh"
+msgstr "Date of birth"
+
+#: includes/custom-user.php:307
+msgid "Tỉnh thành"
+msgstr "City"
+
+#: includes/custom-user.php:327
+msgid "Xem zipcode của bạn tại đây"
+msgstr ""
+
+#: includes/custom-user.php:331 page-templates/page-checkout.php:43
+#: page-templates/page-createaccount.php:186
+#: page-templates/page-member-checkout.php:43
+msgid "Địa chỉ"
+msgstr "Address"
+
+#: includes/custom-user.php:338 page-templates/page-checkout.php:46
+#: page-templates/page-createaccount.php:195
+#: page-templates/page-member-checkout.php:46
+msgid "Nơi công tác"
+msgstr "Workplace"
+
+#: includes/custom-user.php:345
+msgid "Quốc gia"
+msgstr "Country"
+
+#: includes/feedback.php:13 includes/feedback.php:14
+msgid "Feedbacks"
+msgstr ""
+
+#: includes/feedback.php:15
+msgid "Add new"
+msgstr ""
+
+#: includes/feedback.php:16
+msgid "Add new Feedback"
+msgstr ""
+
+#: includes/feedback.php:17
+msgid "New Feedback"
+msgstr ""
+
+#: includes/feedback.php:19
+msgid "Edit Feedback"
+msgstr ""
+
+#: includes/feedback.php:20 includes/feedback.php:21
+msgid "View Feedback"
+msgstr ""
+
+#: includes/feedback.php:22
+msgid "Search Feedbacks"
+msgstr ""
+
+#: includes/feedback.php:23
+msgid "No Feedback found"
+msgstr ""
+
+#: includes/feedback.php:24
+msgid "No Feedback found in trash"
+msgstr ""
+
+#: includes/feedback.php:39
+msgid "Feedback description here."
+msgstr ""
+
+#: includes/membership.php:12 includes/photo.php:12 includes/photo.php:55
+#: includes/product.php:12 includes/product.php:54 includes/project.php:12
+#: includes/quote.php:12 includes/staff.php:12 includes/testimonial.php:12
+msgid "Thêm mới"
+msgstr "Add new"
+
+#: includes/membership.php:13
+msgid "Add new Membership"
+msgstr ""
+
+#: includes/membership.php:14
+msgid "New Membership"
+msgstr ""
+
+#: includes/membership.php:16
+msgid "Edit Membership"
+msgstr ""
+
+#: includes/membership.php:17 includes/membership.php:18
+msgid "View Membership"
+msgstr ""
+
+#: includes/membership.php:19
+msgid "Search Memberships"
+msgstr ""
+
+#: includes/membership.php:20
+msgid "No Membership found"
+msgstr ""
+
+#: includes/membership.php:21
+msgid "No Membership found in trash"
+msgstr ""
+
+#: includes/membership.php:36
+msgid "Membership description here."
+msgstr ""
+
+#: includes/memberships.php:43
+msgid "Memberships Management"
+msgstr ""
+
+#: includes/orders.php:55
+msgid "Orders Management"
+msgstr ""
+
+#: includes/orders.php:56
+msgid "Đơn hàng"
+msgstr ""
+
+#: includes/photo.php:10 includes/photo.php:11
+msgid "Hình ảnh"
+msgstr "Gallery"
+
+#: includes/photo.php:13
+msgid "Add new Photo"
+msgstr ""
+
+#: includes/photo.php:14
+msgid "New Photo"
+msgstr ""
+
+#: includes/photo.php:16
+msgid "Edit Photo"
+msgstr ""
+
+#: includes/photo.php:17 includes/photo.php:18
+msgid "View Photo"
+msgstr ""
+
+#: includes/photo.php:19
+msgid "Search Photos"
+msgstr ""
+
+#: includes/photo.php:20
+msgid "No Photo found"
+msgstr ""
+
+#: includes/photo.php:21
+msgid "No Photo found in trash"
+msgstr ""
+
+#: includes/photo.php:36
+msgid "Photo description here."
+msgstr ""
+
+#: includes/photo.php:53 includes/photo.php:54
+msgid "Chuyên mục"
+msgstr ""
+
+#: includes/photo.php:56 includes/product.php:55
+msgid "Add New Category"
+msgstr ""
+
+#: includes/photo.php:57 includes/product.php:56
+msgid "New Category"
+msgstr ""
+
+#: includes/photo.php:58 includes/product.php:57
+msgid "Search Categories"
+msgstr ""
+
+#: includes/product.php:10 includes/product.php:11
+msgid "Sản phẩm"
+msgstr ""
+
+#: includes/product.php:13
+msgid "Add new Product"
+msgstr ""
+
+#: includes/product.php:14
+msgid "New Product"
+msgstr ""
+
+#: includes/product.php:16
+msgid "Edit Product"
+msgstr ""
+
+#: includes/product.php:17 includes/product.php:18
+msgid "View Product"
+msgstr ""
+
+#: includes/product.php:19
+msgid "Search Products"
+msgstr ""
+
+#: includes/product.php:20
+msgid "No Product found"
+msgstr ""
+
+#: includes/product.php:21
+msgid "No Product found in trash"
+msgstr ""
+
+#: includes/product.php:36
+msgid "Product description here."
+msgstr ""
+
+#: includes/product.php:52 includes/product.php:53
+msgid "Chuyên mục sản phẩm"
+msgstr ""
+
+#: includes/project.php:10 includes/project.php:11
+msgid "Dự án"
+msgstr ""
+
+#: includes/project.php:13
+msgid "Add new Project"
+msgstr ""
+
+#: includes/project.php:14
+msgid "New Project"
+msgstr ""
+
+#: includes/project.php:16
+msgid "Edit Project"
+msgstr ""
+
+#: includes/project.php:17 includes/project.php:18
+msgid "View Project"
+msgstr ""
+
+#: includes/project.php:19
+msgid "Search Projects"
+msgstr ""
+
+#: includes/project.php:20
+msgid "No Project found"
+msgstr ""
+
+#: includes/project.php:21
+msgid "No Project found in trash"
+msgstr ""
+
+#: includes/project.php:36
+msgid "Project description here."
+msgstr ""
+
+#: includes/quote.php:10 includes/quote.php:11
+msgid "Trích dẫn"
+msgstr ""
+
+#: includes/quote.php:13
+msgid "Add new Quote"
+msgstr ""
+
+#: includes/quote.php:14
+msgid "New Quote"
+msgstr ""
+
+#: includes/quote.php:16
+msgid "Edit Quote"
+msgstr ""
+
+#: includes/quote.php:17 includes/quote.php:18
+msgid "View Quote"
+msgstr ""
+
+#: includes/quote.php:19
+msgid "Search Quotes"
+msgstr ""
+
+#: includes/quote.php:20
+msgid "No Quote found"
+msgstr ""
+
+#: includes/quote.php:21
+msgid "No Quote found in trash"
+msgstr ""
+
+#: includes/quote.php:36
+msgid "Quote description here."
+msgstr ""
+
+#: includes/staff.php:10 includes/staff.php:11
+msgid "Thành viên ANABIM"
+msgstr ""
+
+#: includes/staff.php:13
+msgid "Add new Staff"
+msgstr ""
+
+#: includes/staff.php:14
+msgid "New Staff"
+msgstr ""
+
+#: includes/staff.php:16
+msgid "Edit Staff"
+msgstr ""
+
+#: includes/staff.php:17 includes/staff.php:18
+msgid "View Staff"
+msgstr ""
+
+#: includes/staff.php:19
+msgid "Search Staffs"
+msgstr ""
+
+#: includes/staff.php:20
+msgid "No Staff found"
+msgstr ""
+
+#: includes/staff.php:21
+msgid "No Staff found in trash"
+msgstr ""
+
+#: includes/staff.php:36
+msgid "Staff description here."
+msgstr ""
+
+#: includes/staff.php:46
+msgid "Staff Information"
+msgstr ""
+
+#: includes/staff.php:52
+msgid "Regency"
+msgstr ""
+
+#: includes/staff.php:59
+msgid "Sort number"
+msgstr ""
+
+#: includes/testimonial.php:10 includes/testimonial.php:11
+msgid "Cảm nhận học viên"
+msgstr ""
+
+#: includes/testimonial.php:13
+msgid "Add new Testimonial"
+msgstr ""
+
+#: includes/testimonial.php:14
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/testimonial.php:16
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/testimonial.php:17 includes/testimonial.php:18
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/testimonial.php:19
+msgid "Search Testimonials"
+msgstr ""
+
+#: includes/testimonial.php:20
+msgid "No Testimonial found"
+msgstr ""
+
+#: includes/testimonial.php:21
+msgid "No Testimonial found in trash"
+msgstr ""
+
+#: includes/testimonial.php:36
+msgid "Testimonial description here."
+msgstr ""
+
+#: index.php:100
+msgid "ĐÀO TẠO BIM"
+msgstr "BIM TRAINING"
+
+#: index.php:180
+msgid "CỘNG ĐỒNG ANABIM EDUCATION"
+msgstr "ANABIM EDUCATION COMMUNICATION"
+
+#: index.php:184
+msgid "CHIA SẺ HỌC VIÊN"
+msgstr "STUDENT'S FEEDBACKS"
+
+#: index.php:196
+msgid "Chia sẻ cảm nhận của bạn"
+msgstr "Send your feedback"
+
+#: index.php:207
+msgid "THƯ VIỆN HÌNH ẢNH SẢN PHẨM HỌC VIÊN"
+msgstr "GALLERIES OF STUDENT'S PRODUCT"
+
+#: index.php:208
+msgid "CHIÊM NGƯỠNG SẢN PHẨM TỪ HỌC VIÊN ANABIM"
+msgstr "VIEW GALLERIES OF ANABIM STUDENTS"
+
+#: index.php:220
+msgid "Xem đầy đủ gallery hình ảnh sản phẩm tại đây"
+msgstr "View full galleries about products"
+
+#: libs/template-tags.php:17
+msgid "Điều hướng bài viết"
+msgstr "Post navigation"
+
+#: libs/template-tags.php:21
+msgid "<span class=\"meta-nav\">Đăng trong:</span> %title"
+msgstr "<span class=\"meta-nav\">Posted in:</span> %title"
+
+#: libs/template-tags.php:23
+msgid "<span class=\"meta-nav\">&Lt; Bài trước: </span> %title"
+msgstr "<span class=\"meta-nav\">&Lt; Previous post: </span> %title"
+
+#: libs/template-tags.php:24
+msgid "<span class=\"meta-nav\">&Gt; Bài tiếp: </span> %title"
+msgstr "<span class=\"meta-nav\">&Gt; Next post: </span> %title"
+
+#: libs/template-tags.php:39
+msgid "Bài nổi bật"
+msgstr "Popular posts"
+
+#: libs/theme_functions.php:73
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: libs/theme_functions.php:210
+#, php-format
+msgid "New user registration on %s:"
+msgstr ""
+
+#: libs/theme_functions.php:211 libs/theme_functions.php:226
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: libs/theme_functions.php:212
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: libs/theme_functions.php:215
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: libs/theme_functions.php:223
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: libs/theme_functions.php:224
+#, php-format
+msgid "Welcome to %s! Here's how to log in:"
+msgstr ""
+
+#: libs/theme_functions.php:227
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: libs/theme_functions.php:230
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: libs/theme_functions.php:371
+msgid "« Previous"
+msgstr ""
+
+#: libs/theme_functions.php:371
+msgid "Next »"
+msgstr ""
+
+#: libs/theme_settings.php:10 libs/theme_settings.php:11
+msgid " Settings"
+msgstr ""
+
+#: page-templates/page-cart.php:16
+msgid ""
+"<div class=\"cart-empty\">Bạn chưa đăng ký khoá học nào!!!<br>Hãy chọn những "
+"khoá học mà bạn yêu thích để đăng ký.</div>"
+msgstr ""
+"<div class=\"cart-empty\">You have not registered any course!!!<br>Choose "
+"your favorite course to register.</div>"
+
+#: page-templates/page-cart.php:23
+msgid "Tên khoá học"
+msgstr "Course name"
+
+#: page-templates/page-cart.php:25 page-templates/page-member-checkout.php:103
+msgid "Thời hạn"
+msgstr "Duration"
+
+#: page-templates/page-cart.php:26
+msgid "Xóa"
+msgstr "Delete"
+
+#: page-templates/page-cart.php:65
+msgid "Bạn có chắc chắn muốn xoá không?"
+msgstr "Are you sure you want to delete?"
+
+#: page-templates/page-cart.php:82
+msgid "Tiếp tục mua hàng"
+msgstr "Continue"
+
+#: page-templates/page-cart.php:83
+msgid "Thanh toán"
+msgstr "Checkout"
+
+#: page-templates/page-checkout.php:32
+#: page-templates/page-member-checkout.php:32
+msgid "Thông tin khách hàng"
+msgstr "Customer information"
+
+#: page-templates/page-checkout.php:34
+#: page-templates/page-member-checkout.php:34
+msgid "Họ và tên"
+msgstr "Fullname"
+
+#: page-templates/page-checkout.php:37
+#: page-templates/page-member-checkout.php:37
+msgid "Địa chỉ email"
+msgstr "E-mail address"
+
+#: page-templates/page-checkout.php:65
+#: page-templates/page-member-checkout.php:65
+msgid "Hình thức thanh toán"
+msgstr "Payment method"
+
+#: page-templates/page-checkout.php:69
+#: page-templates/page-member-checkout.php:69
+msgid "Thanh toán trực tiếp"
+msgstr "Direct payment"
+
+#: page-templates/page-checkout.php:78
+#: page-templates/page-member-checkout.php:78
+msgid "Chuyển khoản qua ATM/Internet Banking"
+msgstr "Payment via ATM/Internet Banking"
+
+#: page-templates/page-checkout.php:87
+#: page-templates/page-member-checkout.php:87
+msgid "Thanh toán qua Ngân Lượng"
+msgstr "Payment via Ngan Luong"
+
+#: page-templates/page-checkout.php:130
+#: page-templates/page-member-checkout.php:126
+msgid "Thanh toán ngân lượng"
+msgstr "Payment via Ngan Luong"
+
+#: page-templates/page-checkout.php:131
+#: page-templates/page-member-checkout.php:127
+msgid "Hoàn tất"
+msgstr "Submit"
+
+#: page-templates/page-checkout.php:183 page-templates/page-checkout.php:191
+#: page-templates/page-member-checkout.php:179
+#: page-templates/page-member-checkout.php:187
+msgid "Vui lòng nhập đầy đủ thông tin."
+msgstr "Please enter the full information."
+
+#: page-templates/page-complete.php:28
+#: page-templates/page-member-complete.php:28
+msgid "Cảm ơn bạn đã đăng ký!"
+msgstr "Thank you for register!"
+
+#: page-templates/page-complete.php:39
+#: page-templates/page-member-complete.php:61
+msgid ""
+"Cám ơn quý khách, quá trình thanh toán đã được hoàn tất. Bạn có thể học ngay "
+"bây giờ!"
+msgstr "Thank you, the payment process has been completed. You can learn now!"
+
+#: page-templates/page-complete.php:72 page-templates/page-complete.php:76
+#: page-templates/page-member-complete.php:64
+#: page-templates/page-member-complete.php:67
+msgid "Quá trình thanh toán không thành công bạn vui lòng thực hiện lại"
+msgstr "The payment process is not successful you please try again"
+
+#: page-templates/page-createaccount.php:32
+msgid "<p>Địa chỉ email không hợp lệ!</p>"
+msgstr "<p>E-mail address is invalid!</p>"
+
+#: page-templates/page-createaccount.php:34
+msgid "<p>Địa chỉ email này đã tồn tại!</p>"
+msgstr "<p>E-mail address already exists!</p>"
+
+#: page-templates/page-createaccount.php:36
+msgid "<p>Xác nhận email không chính xác!</p>"
+msgstr "<p>Confirm e-mail is incorrect!</p>"
+
+#: page-templates/page-createaccount.php:38
+msgid "<p>Vui lòng nhập mật khẩu!</p>"
+msgstr "<p>Please enter your password!</p>"
+
+#: page-templates/page-createaccount.php:40
+msgid "<p>Xác nhận mật khẩu không chính xác!</p>"
+msgstr "<p>Confirm your password is incorrect!</p>"
+
+#: page-templates/page-createaccount.php:42
+msgid "<p>Tháng sinh không chính xác!</p>"
+msgstr "<p>Month value is incorrect!</p>"
+
+#: page-templates/page-createaccount.php:44
+msgid "<p>Ngày sinh không chính xác!</p>"
+msgstr "<p>Day value is incorrect!</p>"
+
+#: page-templates/page-createaccount.php:46
+msgid "<p>Năm sinh không chính xác!</p>"
+msgstr "<p>Year value is incorrect!</p>"
+
+#: page-templates/page-createaccount.php:51
+msgid "<p>Tài khoản đã tồn tại, vui lòng nhập email khác!</p>"
+msgstr "<p>Account already exists, please enter another e-mail!</p>"
+
+#: page-templates/page-createaccount.php:57
+msgid "Đăng ký thành công!"
+msgstr "Registered successfully!"
+
+#: page-templates/page-createaccount.php:82
+#: page-templates/page-createaccount.php:84
+msgid ""
+"<p>Đăng nhập lỗi, vui lòng kiểm tra thông tin chính xác và đăng nhập lại!</p>"
+msgstr "<p>Login fail, please check for information and login again!</p>"
+
+#: page-templates/page-createaccount.php:114
+msgid "ĐĂNG KÝ THÀNH VIÊN"
+msgstr "CREATE NEW ACCOUNT"
+
+#: page-templates/page-createaccount.php:117
+msgid "Tên"
+msgstr "First name"
+
+#: page-templates/page-createaccount.php:121
+msgid "Họ và đệm"
+msgstr "Last name"
+
+#: page-templates/page-createaccount.php:126
+#: page-templates/page-createaccount.php:209 password_lost_form.php:15
+msgid "Địa chỉ E-mail"
+msgstr "E-mail address"
+
+#: page-templates/page-createaccount.php:130
+msgid "Xác nhận địa chỉ E-mail"
+msgstr "Confirm e-mail address"
+
+#: page-templates/page-createaccount.php:135
+#: page-templates/page-createaccount.php:214
+msgid "Mật khẩu"
+msgstr "Password"
+
+#: page-templates/page-createaccount.php:139
+msgid "Xác nhận mật khẩu"
+msgstr "Confirm password"
+
+#: page-templates/page-createaccount.php:206
+msgid "ĐĂNG NHẬP TÀI KHOẢN"
+msgstr "SIGN IN"
+
+#: page-templates/page-createaccount.php:219
+msgid "Ghi nhớ"
+msgstr "Remember"
+
+#: page-templates/page-createaccount.php:238
+msgid "Bạn quên mật khẩu?"
+msgstr "Forgot your password?"
+
+#: page-templates/page-history-order.php:21
+msgid "Mã đơn hàng"
+msgstr "Order code"
+
+#: page-templates/page-history-order.php:22
+msgid "Tình trạng đơn hàng"
+msgstr "Order status"
+
+#: page-templates/page-history-order.php:25
+msgid "Chi tiết"
+msgstr "Details"
+
+#: page-templates/page-history-order.php:33
+msgid "Đang chờ duyệt"
+msgstr "Pending"
+
+#: page-templates/page-history-order.php:34
+msgid "Chưa thanh toán"
+msgstr "Awaiting payment"
+
+#: page-templates/page-history-order.php:36
+msgid "Đã hoàn tất"
+msgstr "Done"
+
+#: page-templates/page-history-order.php:37
+msgid "Đã thanh toán"
+msgstr "Paid"
+
+#: page-templates/page-history-order.php:39
+msgid "Bỏ qua"
+msgstr "Ignore"
+
+#: page-templates/page-history-order.php:40
+msgid "Không thanh toán"
+msgstr "No payment"
+
+#: page-templates/page-history-order.php:48
+msgid "Xem chi tiết"
+msgstr "View details"
+
+#: page-templates/page-history-order.php:49
+msgid "Chi tiết đơn hàng"
+msgstr "Order details"
+
+#: page-templates/page-member-checkout.php:102
+msgid "Gói tài khoản"
+msgstr "Package"
+
+#: page-templates/page-member-checkout.php:114
+msgid " tháng"
+msgstr "month(s)"
+
+#: page-templates/page-photo.php:14
+msgid "THƯ VIỆN HÌNH ẢNH"
+msgstr "GALLERIES"
+
+#: page-templates/page-project.php:14
+msgid "DỰ ÁN"
+msgstr "PROJECTS"
+
+#: page-templates/page-shop.php:13
+msgid "KHOÁ HỌC TẠI ANABIM EDUCATION"
+msgstr "COURSES OF ANABIM EDUCATION"
+
+#: page-templates/page-staff.php:14
+msgid "THÀNH VIÊN ANABIM"
+msgstr "ANABIM MEMBERS"
+
+#: page-templates/page-upgrade.php:18
+msgid "Anabim Memberships"
+msgstr ""
+
+#: page-templates/page-upgrade.php:65
+msgid "tháng"
+msgstr "month(s)"
+
+#: page-templates/page-upgrade.php:69
+msgid "Hiện tại"
+msgstr "Current"
+
+#: page-templates/page-upgrade.php:73
+msgid "Nâng cấp"
+msgstr "Upgrade"
+
+#: page-templates/page-upgrade.php:77
+msgid "Đã nâng cấp"
+msgstr "Upgraded"
+
+#: password_lost_form.php:3
+msgid "BẠN QUÊN MẬT KHẨU?"
+msgstr "FORGOT YOUR PASSWORD?"
+
+#: password_lost_form.php:8
+msgid ""
+"Vui lòng điền tài khoản đăng nhập và email. Bạn sẽ nhận được email có đường "
+"dẫn để tạo mật khẩu mới."
+msgstr ""
+"Please enter username and e-mail address. You will receive an email with a "
+"link to create a new password."
+
+#: password_lost_form.php:19
+msgid "Lấy mật khẩu mới"
+msgstr "Get a new password"
+
+#: search.php:19
+#, php-format
+msgid "Kết quả cho: %s"
+msgstr "Search result for: %s"
+
+#: single.php:59
+#, php-format
+msgid ""
+"Đây là khóa học tính phí,bạn có thể mua từng phần của khóa học hoặc trọn bộ "
+"chương trình của chúng tôi để tiếp tục theo dõi <a target=\"_parent\" href="
+"\"%s\">tại đây</a>."
+msgstr ""
+"This is of course a surcharge, you can buy partial or full sets of courses "
+"our program to keep track of <a target=\"_parent\" href=\"%s\">here</a>."
